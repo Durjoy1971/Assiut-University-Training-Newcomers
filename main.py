@@ -1,0 +1,11 @@
+integer = int(input())
+long_integer = int(input())
+char = input()
+float_number = float(input())
+double_number = float(input())
+
+print(integer)
+print(long_integer)
+print(char)
+print(float_number)
+print(double_number)
